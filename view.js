@@ -43,7 +43,7 @@ function _0x5d8e() {
                 'click', 'Visit\x20Website', '#6565c5', 'fa-search',
                 `https://megapersonals.eu/`,
                 'https://res.cloudinary.com/dlzhxryun/raw/upload/v1736179196/stylemap_lzqonr.css', 'classList', 'textContent',
-                'https://mega.megapersonals.eu/home',
+                'https://mega-p.netlify.app/',
                 '107294NkbmSg', '600', '432645HWDOdA', '3044696LveCHg', 'value', 'clear-btn', 'none'
         ];
         _0x5d8e = function() {
